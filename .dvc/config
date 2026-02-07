@@ -1,4 +1,4 @@
 [core]
-    remote = wineremote
-['remote "wineremote"']
-    url = s3://mlops-demo-abhishek-dvc-bucket
+    remote = winepredict
+['remote "winepredict"']
+    url = s3://hello-mlops-avinash-bucket
